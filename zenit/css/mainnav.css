@@ -1,0 +1,54 @@
+#mainnav {
+    padding: 0 !important;
+    display: flex;
+}
+
+#mainnav ul {
+    margin-left: 30px !important;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    height: 30px;
+    margin-top: 25px;
+    width: 300px;
+    margin-right: 0 !important;
+}
+
+#mainnav li {
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#mainnav a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+}
+
+#mainnav a:hover {
+    text-decoration: none;
+  
+    color: rgb(103, 103, 103);;
+}
+
+#head {
+    display: block !important;
+
+
+}
+
+.col-md-11 {
+    padding: 0 !important;
+
+}
+
+.col-md-1 {
+    padding: 0 !important;
+    
+
+}
+.col-md-6{
+    padding: 0 !important;
+}
+

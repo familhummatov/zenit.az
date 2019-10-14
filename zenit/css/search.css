@@ -1,0 +1,33 @@
+.searchbar {
+    margin-bottom: auto;
+    margin-top: 7px;
+    height: 60px;
+    background-color: skyblue;
+    border-radius: 15px;
+    padding: 10px;
+    float: right;
+    /* background-color: rgba(69, 200, 252, 0.5); */
+}
+
+.search_input {
+    color: white;
+    border: 0;
+    outline: 0;
+    background: none;
+    line-height: 40px;
+    padding: 0 10px;
+    width: 250px;
+    caret-color: white;
+}
+
+.search_icon {
+    height: 40px;
+    width: 40px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    color: white;
+    background: white;
+}

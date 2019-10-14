@@ -1,0 +1,303 @@
+@media(max-width: 1124px) {
+    .altcat a {
+        font-size: 14px;
+    }
+
+    .altcat img {
+        width: 30px;
+        display: block;
+    }
+
+    #slider img {
+        height: 400px;
+    }
+
+    .company {
+        display: none !important;
+    }
+
+    .company h3 {
+        display: none !important;
+    }
+
+    .company p {
+        display: none !important;
+    }
+
+    .connect {
+        margin: auto !important;
+    }
+
+    .follow {
+        margin: 0 auto !important;
+    }
+
+    .card-body {
+        padding: 10px 0 !important;
+    }
+
+    .card-body p {
+        font-size: 14px;
+    }
+
+    .subcontact {
+        margin-left: 0;
+    }
+}
+
+@media(max-width: 830px) {
+    #partnyor img {
+        width: 100px;
+        margin: auto;
+        margin-right: 20px;
+    }
+
+    #partnyor {
+        padding: 0;
+        display: flex;
+    }
+
+    #partnyor div {
+        margin: auto;
+    }
+}
+
+@media(max-width: 768px) {
+    #slider {
+        display: none;
+    }
+
+    #partnyor {
+        display: none;
+    }
+
+    .mainlogo {
+        display: none;
+    }
+
+    .mainnavigation {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+    }
+
+    .mainnavigation form {
+        display: flex;
+        margin-top: 10px;
+    }
+
+    #head {
+        height: 100px;
+    }
+
+    #mainnav ul {
+        margin: 0 auto !important;
+        width: 95%;
+    }
+
+    #mainnav ul li {
+        margin: 0 auto !important;
+    }
+
+    .searchbar {
+        margin: 0 auto !important;
+        width: 95%;
+        height: 40px;
+        padding: 0;
+        display: flex;
+
+    }
+
+    .searchbar button {
+        margin: auto;
+    }
+
+    .search_input {
+        width: 90%;
+        line-height: 0%;
+        margin: auto;
+
+    }
+
+    #mainnav {
+        padding-top: 5px !important;
+    }
+
+    #cat {
+        height: auto;
+    }
+
+    #cat li {
+        border-bottom: 1px solid rgb(237, 237, 237);
+    }
+
+    .altcat a {
+        padding: 5px 0;
+    }
+
+    #menu {
+        margin-top: 10px;
+    }
+
+    .altcat:hover .subcat {
+        display: none;
+    }
+
+    .company {
+        display: none !important;
+    }
+
+    .company h3 {
+        display: none !important;
+    }
+
+    .company p {
+        display: none !important;
+    }
+
+    #by p {
+        font-size: 14px !important;
+    }
+
+    #back-to-top {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .productCard {
+        height: 300px !important;
+    }
+
+    #partnyor {
+        display: none;
+    }
+
+    .message {
+        border: none;
+    }
+
+    .submessage {
+        border-top: 1px solid rgba(103, 103, 103, .5);
+        margin: 0;
+    }
+
+    .submessage h3 {
+        text-align: center;
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+    }
+
+    #ad {
+        margin-bottom: 10px;
+    }
+
+    #email input {
+        width: 100%;
+    }
+
+    .prefix {
+        padding-right: 0 !important;
+    }
+
+    #number input {
+        width: 100%;
+    }
+
+    .number {
+        padding-right: 0 !important;
+    }
+
+    #text textarea {
+        width: 100%;
+    }
+
+    .mybtn {
+        display: flex;
+    }
+
+    .mybtn button {
+        margin: auto;
+    }
+
+    #map iframe {
+        height: 300px;
+    }
+
+    #map {
+        margin-bottom: 20px;
+    }
+
+    .subcontact {
+        margin-bottom: 30px;
+    }
+
+    .contactcontent p {
+        font-size: 14px;
+    }
+
+    .imgborder {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+@media(max-width: 576px) {
+    #slider {
+        display: none;
+    }
+
+    #partnyor {
+        display: none;
+    }
+
+    .mainlogo {
+        display: none;
+    }
+
+    .connect {
+        border-bottom: 1px solid rgb(237, 237, 237);
+    }
+
+    .follow ul {
+        display: flex;
+        justify-content: center;
+    }
+
+    .follow ul li {
+        display: flex;
+        margin-right: 20px;
+    }
+
+    .social a {
+        font-size: 14px;
+        margin-left: 5px;
+    }
+
+    .productCard {
+        height: 250px !important;
+    }
+
+    .photo {
+        height: 190px;
+    }
+
+    .adress a,
+    p {
+        font-size: 14px;
+    }
+
+    .adress img {
+        width: 20px;
+    }
+
+    .social img {
+        width: 20px;
+    }
+}
+
+
+@media(max-width: 360px) {
+    .card-body p {
+        font-size: 12px;
+    }
+}
